@@ -8,6 +8,7 @@ Meance starts its journey to TicTacToe mastery not knowing any strategy and just
 with each victory and defeat it starts developing a sense of good and bad moves. The only limit to its skill is perfection. <br />
 Based on Donald Michie's experiment (https://en.wikipedia.org/wiki/Matchbox_Educable_Noughts_and_Crosses_Engine).
 <br />
+"TicTacToe.java" is the main file. <br />
 
 
 <h2>Languages and Utilities Used</h2>
